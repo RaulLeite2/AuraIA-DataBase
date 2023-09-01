@@ -212,4 +212,4 @@ async def list_tables(ctx):
         if connection:
             connection.close()
             
-bot.run("MTEyNDg5NTU3NjE5OTI3ODYxMg.GxLENu.8jHrc1i3DgEUDRpLEMZQabGSBt_qhTfY4C314c")
+bot.run("TOKEN_API_OF_IA")
